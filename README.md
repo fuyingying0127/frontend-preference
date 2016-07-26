@@ -1,6 +1,8 @@
 # Front-end Preference
 It's my preference in front-end
 
+English | [中文](https://github.com/lon3/frontend-preference/blob/master/README-zh.md)
+
 ## Use
 
 - html, css, js
